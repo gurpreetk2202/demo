@@ -1,4 +1,4 @@
 # demo
 this is my first repository.
 <br>
-Author- Gurpreet Kaur (student)
+Author- Gurpreet Kaur 
